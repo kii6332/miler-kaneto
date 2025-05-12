@@ -83,4 +83,4 @@ intents = discord.Intents.default()
 intents.message_content = True
 intents.members = True
 client = MyClient(intents=intents)
-client.run('MTM2OTI2NTc4NTY3MDg2NDk1OA.GQIGni.Jc2A2qvAiKJHJKylK1EWd013DBiBl01ANLlcng')
+client.run('my token')
